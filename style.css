@@ -1,0 +1,56 @@
+body{
+    font: small-caps 100%/200% serif;
+    text-align: center;
+    background-image: url(https://fondosmil.com/fondo/456.jpg);
+}
+
+section{
+
+    width: 350px;
+    height: 300px;
+    margin: auto;
+    margin-top: 180px;
+    padding: 20px 30px;
+    box-shadow: 7px 13px 23px rgb(56, 55, 55);
+    background-color: rgb(95, 95, 95);
+
+}
+
+.controls{
+    margin: 0;
+    width: 90%;
+
+    text-align: center;
+    background-color: rgb(71, 71, 73);
+    padding: 10px 12px;
+    margin-bottom: 15px;
+    color: azure;
+}
+
+input{
+
+    background-color: rgb(170, 170, 170);
+}
+a{
+    color: rgb(176, 179, 182);
+    text-decoration: none;
+    
+    
+}
+h5{
+    
+    font: small-caps 100%/200% serif;
+    background-color: rgb(117, 114, 114);
+    box-shadow: 7px 13px 23px rgb(56, 55, 55);
+    color: rgb(176, 179, 182);
+    text-align: center;
+    
+}
+.buttons{
+
+    color: rgb(176, 179, 182);
+    background-color: rgb(72, 72, 73);
+    font: small-caps 100%/200% serif;
+
+}
+
